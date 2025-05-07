@@ -1,2 +1,2 @@
 Esto es una prueba
-Esta es una prrueba con herrores otográficos.
+Esta es una prueba sin errores ortográficos.
